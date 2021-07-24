@@ -1,0 +1,20 @@
+table {
+  border-collapse: collapse;
+  width: 30%;
+}
+.campo {
+  font-size: 16px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: rgb(238, 233, 230);
+  background-color: rgb(39, 37, 37);
+}
+td,
+th {
+  border: 1px solid #cccccc;
+  text-align: center;
+  font-size: 14px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.fundo {
+  background-color: rgb(236, 242, 248);
+}
